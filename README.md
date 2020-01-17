@@ -36,6 +36,15 @@ A aplicação está sendo desenvolvida com **Node JS** no *backend*, **React JS*
 
 # Instruções para execução do *frontend*
 
-* Após fazer o download do projeto ou clona o repositório, execute o comando `yarn` na pasta `web` para que o gerenciador faça o download de todas as dependências necessárias;
+* Após fazer o download do projeto ou clonar o repositório, execute o comando `yarn` na pasta `web` para que o gerenciador faça o download de todas as dependências necessárias;
 
 * Após finalizar, execute `yarn start` para que o projeto execute.
+
+# Instruções para execução do *mobile*
+> A aplicação foi desenvolvida utilizando o **Expo**. Para executá-la em seu dispositivo, você deverá ter o aplicativo do Expo instalado.
+
+* Após fazer o download do projeto ou clonar o repositório, execute o comando `yarn` na pasta `mobile` para que o gerenciador faça o download de todas as dependências necessárias;
+
+* Após finalizar, execute `yarn start` para inicializar a aplicação;
+
+* Abra o aplicativo do expo e escaneie o QRCode gerado;
