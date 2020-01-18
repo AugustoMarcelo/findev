@@ -48,3 +48,6 @@ A aplicação está sendo desenvolvida com **Node JS** no *backend*, **React JS*
 * Após finalizar, execute `yarn start` para inicializar a aplicação;
 
 * Abra o aplicativo do expo e escaneie o QRCode gerado;
+
+# Interfaces
+![](./previews/web.png)
