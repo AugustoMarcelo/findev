@@ -92,8 +92,8 @@ export default function Main({ navigation }) {
         const { latitude, longitude } = coords;
 
         setCurrentRegion({
-          longitude,
           latitude,
+          longitude,
           latitudeDelta: 0.04,
           longitudeDelta: 0.04,
         });
@@ -122,7 +122,7 @@ export default function Main({ navigation }) {
       params: {
         latitude,
         longitude,
-        techs: '',
+        techs,
       }
     });
 
